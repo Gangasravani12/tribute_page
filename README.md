@@ -7,3 +7,6 @@
 The biography paragraph provides an insightful overview of Bose's contributions to India's struggle for independence. CSS is extensively used for styling. Images have specific margins, sizes, and drop shadows, enhancing visual appeal. The heading and paragraph have precise positioning, aligning them aesthetically. The first letter of the heading and paragraph is enlarged, and the heading's first letter has distinct font characteristics. The <mark> element is applied to certain words, highlighting them in a distinctive color with a contrasting background.
 
 In summary, this well-crafted code creates a visually engaging tribute to Subhas Chandra Bose, effectively combining HTML's structural capabilities with CSS's styling prowess to convey his significance in India's history.
+
+
+**Live site Url :** : https://gangasravani12.github.io/tribute_page/
